@@ -5,8 +5,8 @@ import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
   lang: 'en-US',
-  site: 'https://penguin-papa-slate-blog.vercel.app',
-  avatar: '/avatar.png',
+  site: 'https://www.penguinpapa.life/',
+  avatar: '/avatar.jpg',
   title: ' 小企鹅爸爸的生活',
   description: 'Pure thoughts, simple stories.',
   lastModified: true,
